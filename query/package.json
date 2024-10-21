@@ -7,7 +7,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "harisemail94@gmail.com",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.5",
